@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone!
+
+Rong-git here,I like jave and reading books.
